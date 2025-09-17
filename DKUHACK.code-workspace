@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "DKUHACK",
+			"path": "."
+		},
+		{
+			"name": "plantpal",
+			"path": "../../Downloads/plantpal"
+		}
+	],
+	"settings": {}
+}
